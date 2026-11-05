@@ -2,6 +2,8 @@
 
 Öffentliche Webseite der App **Coachly – Training & Community** (GitHub Pages), zweisprachig Deutsch/Englisch.
 
+Adresse: **https://derjenso.github.io/Coachly-Support/**
+
 | Seite | Pfad |
 |---|---|
 | Support (Support-URL für App Store Connect) | `/` |
